@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    color: white;
+
+    background-image: url("https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f");
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background: rgba(0,0,0,0.8);
+    text-align: center;
+    padding: 15px;
+}
+
+section {
+    background: rgba(0,0,0,0.6);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+iframe {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
